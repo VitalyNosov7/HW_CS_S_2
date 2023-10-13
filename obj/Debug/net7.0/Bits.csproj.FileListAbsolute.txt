@@ -1,0 +1,14 @@
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\bin\Debug\net7.0\Bits.exe
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\bin\Debug\net7.0\Bits.deps.json
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\bin\Debug\net7.0\Bits.runtimeconfig.json
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\bin\Debug\net7.0\Bits.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\bin\Debug\net7.0\Bits.pdb
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\obj\Debug\net7.0\Bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\obj\Debug\net7.0\Bits.AssemblyInfoInputs.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\obj\Debug\net7.0\Bits.AssemblyInfo.cs
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\obj\Debug\net7.0\Bits.csproj.CoreCompileInputs.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\obj\Debug\net7.0\Bits.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\obj\Debug\net7.0\refint\Bits.dll
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\obj\Debug\net7.0\Bits.pdb
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\obj\Debug\net7.0\Bits.genruntimeconfig.cache
+C:\Users\enot\Desktop\RP_C_Sharp\Seminars\HW_S_2_1\Bits\obj\Debug\net7.0\ref\Bits.dll

@@ -30,20 +30,19 @@
         public long Value { get; private set; } = 0;
         private int Size = 64;
 
-
-        public static implicit operator long(Bits b)
+        public static implicit operator Bits(long b) 
         {
-            return new long { };
+            return new Bits(b);
         }
 
-        public static implicit operator int(Bits b)
+        public static implicit operator Bits(int b) 
         {
-            return new int { };
+            return new Bits(b); 
         }
 
-        public static implicit operator byte(Bits b)
+        public static implicit operator Bits(byte b) 
         {
-            return new byte { };
+            return new Bits(b); 
         }
 
         public bool getBits(int numer)

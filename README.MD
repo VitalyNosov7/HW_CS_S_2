@@ -3,25 +3,24 @@
 ---
 Решение.
 
-Для решения задачи в классе Bits созданы перегрузки операторов неявного преобразования типов, в которых должна быть реализована логика преобразований типов из long,int,byte в Bits.
+Для решения задачи в классе Bits определены операторы неявного преобразования типов, в которых реализована логика преобразований типов из long,int,byte в Bits.
 
 ```
-        public static implicit operator long(Bits b)
+         public static implicit operator Bits(long b) 
         {
-            return new long { };
+            return new Bits(b);
         }
 
-        public static implicit operator int(Bits b)
+        public static implicit operator Bits(int b) 
         {
-            return new int { };
+            return new Bits(b); 
         }
 
-        public static implicit operator byte(Bits b)
+        public static implicit operator Bits(byte b) 
         {
-            return new byte { };
+            return new Bits(b); 
         }
 
 ```
 
-Реализовать логику преобразований типов из long,int,byte в Bits не удалось по причине отсутствия знаний, опыта и времени, чтобы более глубже разобраться с реализацией поставленной задачи.
-Задача интересная, хотелось бы разобраться с реализацией таких преобразований.
+ В методе Main() класса Program продемонстрировано неявное преобразование типов из  long,int,byte в Bits.
